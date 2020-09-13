@@ -1,0 +1,17 @@
+<resources>
+    <!--Login Layout-->
+    <string name="app_name">LoginRegisterLayouts</string>
+    <string name="email_login">Email</string>
+    <string name="password_login">Password</string>
+    <string name="login_page_login_button">Login</string>
+    <string name="login_page_register_message">No account? Register here!</string>
+
+    <!--Register Layout-->
+    <string name="register_page_insert_email">Insert Email</string>
+    <string name="register_page_repeat_email">Repeat Email</string>
+    <string name="register_page_insert_password">Insert Password</string>
+    <string name="register_page_repeat_password">Repeat Password</string>
+    <string name="register_page_register_button">Register</string>
+    <string name="register_page_login_message">Have an account? Login here!</string>
+
+</resources>
